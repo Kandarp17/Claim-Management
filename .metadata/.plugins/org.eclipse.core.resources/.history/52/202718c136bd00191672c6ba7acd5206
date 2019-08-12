@@ -1,0 +1,5 @@
+package com.claim.management.claimusermanagement.Service;
+
+public class AmazonClient {
+
+}

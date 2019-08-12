@@ -1,0 +1,5 @@
+package com.claim.management.claimusermanagement.repository;
+
+public class UserRepository {
+
+}

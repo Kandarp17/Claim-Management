@@ -1,0 +1,9 @@
+package com.claim.management.claimusermanagement.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.claim.management.claimusermanagement.entity.Damage;
+
+public interface DamageRepository extends JpaRepository<Damage, Integer>{
+
+}

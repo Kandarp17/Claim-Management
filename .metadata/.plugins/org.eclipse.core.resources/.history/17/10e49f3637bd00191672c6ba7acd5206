@@ -1,0 +1,10 @@
+spring.application.name=claim_management_backend
+spring.jpa.show-sql=true
+spring.jpa.hibernate.ddl-auto=create
+spring.datasource.url=jdbc:mysql://localhost:3306/claim_management?serverTimezone=UTC
+spring.datasource.username=root
+spring.datasource.password=Dakan@1014
+amazonProperties.endpointUrl= https://s3.us-east-2.amazonaws.com
+amazonProperties.accessKey= AKIA3H7XHQLEMGBF64JF
+amazonProperties.secretKey= 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
+amazonProperties.bucketName= claim-management-bucket

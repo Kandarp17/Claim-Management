@@ -1,0 +1,15 @@
+package com.claim.management.claimusermanagement;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+@Configuration
+@EnableSwagger2
+public class ClaimUserManagementApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ClaimUserManagementApplication.class, args);
+	}
+
+}

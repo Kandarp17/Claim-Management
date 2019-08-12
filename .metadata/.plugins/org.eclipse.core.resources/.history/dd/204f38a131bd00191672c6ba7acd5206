@@ -1,0 +1,8 @@
+package com.claim.management.claimusermanagement.Service;
+
+public class UploadFileService {
+	
+	static AWSCredentials credentials = new BasicAWSCredentials(
+			"accesskey", 
+			"SecretKey");
+}

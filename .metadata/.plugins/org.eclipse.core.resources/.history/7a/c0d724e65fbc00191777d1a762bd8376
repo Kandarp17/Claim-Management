@@ -1,0 +1,8 @@
+package com.claim.management.claimusermanagement.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class ClaimController {
+
+}
