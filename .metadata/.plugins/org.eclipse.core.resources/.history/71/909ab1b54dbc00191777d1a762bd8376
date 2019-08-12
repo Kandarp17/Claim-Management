@@ -1,5 +1,0 @@
-package com.claim.management.claimusermanagement.repository;
-
-public interface CustomerRepository {
-
-}
